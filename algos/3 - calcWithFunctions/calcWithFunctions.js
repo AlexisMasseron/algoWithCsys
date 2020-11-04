@@ -14,6 +14,10 @@
   Division should be integer division. For example, this should return 2, not 2.666666...:
 */
 
+/* 
+  If you need more functions, feel free to implement them as well but keep in mind that the tests will only cover those built in functions. So make sure that your function are called
+  by those ones and do not return actual results. 
+*/
 module.exports = {
   zero() {},
   one() {},
